@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tetris</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="gauche">G</string>
+    <string name="droite">D</string>
+    <string name="tombe">T</string>
+    <string name="pivote">P</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="jouer">Jouer</string>
+    <string name="score">Score</string>
+
+</resources>
